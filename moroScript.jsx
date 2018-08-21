@@ -865,35 +865,31 @@
 				
           		<h1 className='ui dividing header'>Moro Story Corpus</h1>
 
-              <img className="ui medium right floated rounded image" src="./images/Nuba-berge.jpg"></img>
+              <img className="ui right floated rounded image" src="./images/landscape.jpg"></img>
           
-          <p>This website contains a collection of texts and stories in the Moro language. Moro is a language of the Nuba Mountains of Sudan, where the Moro people have lived since ancient times. Moro is a Kordofanian language, a subgroup of the Niger-Congo language family. Through the texts on this page you can learn more about the Moro, their culture, and their traditional stories. </p> 
+          <p>Within this website, you can find several stories from Iraqw oral literature in text and audio, translated and transcribed. </p> 
           
-           <p>This page is intended as a resource for Moro people as well as researchers who are interested in learning more about the Moro language. Written Moro is a mixture of dialects, but often closely resembles the Wërria dialect. As in all written Moro, tone is not marked in these stories.</p>
-           
-           <p>The development of this corpus was supported by a grant from the Hellman Fellows Fund.</p>
+           <p>Iraqw is a language spoken in northern Tanzania by approximately half a million people. It is the largest southern Cushitic language, as its closest relatives, Gorwaa, Alagwa and Burunge, have approximately 15,000 speakers. </p>
+ 
+		  <p> Swahili is a second language for the vast majority of Iraqw speakers. Swahili is used in administration and schools, and Iraqw is used for all other domains - although hardly in written communication. The written material that is available in Iraqw is religious in nature. Some stories, riddles and other specimens of the rich, historical Iraqw verbal art are now also available in writing.</p>
+		  
+		  <p> The materials on this website were recorded between 1987 - 2018, in various locations around Mbulu and Kwermusl. Although they represent the traditional oral culture of the Iraqw, to some living there now, they may act as a reminder of the past.</p>
+			  
+           <p>The purpose of this database is to allow people learn more about the Iraqw language, people and culture.</p>
             
          	<h1 className='ui dividing header'>Project members</h1>
 
 
-			<h3> Angelo Naser (Author, Editor) </h3>
-        	<p> Born and raised in the village of Karkaria in the Nuba Mountains, Angelo now lives and works in Khartoum. Angelo is a member of the Moro Language Committee and is involved in the Moro literacy program. He works at the United Bible Society in Khartoum. </p> 
+			<h3> Maarten Mous </h3>
+        	<p> <a href="https://www.universiteitleiden.nl/en/staffmembers/maarten-mous#tab-1"Maarten </a> has studied the Iraqw language since completing his PhD in.... </p> 
 
-			<h3> Peter Jenks (Editor) </h3>
-        	<p> <a href="http://linguistics.berkeley.edu/~jenks/home.html">Peter</a> has studied the Moro language since 2005, much of his work in collaboration with the <a href='http://moro.ucsd.edu/'>Moro Language Project</a>. He is an Assistant Professor at UC Berkeley.</p> 
+			<h3> Amy Catling </h3>
+        	<p> ...</p> 
 
-			<h3> Hannah Sande (Editor) </h3>
-        	<p> <a href="http://linguistics.berkeley.edu/~hsande/">Hannah</a> is a PhD candidate in the UC Berkeley linguistics department. In addition to her work on Moro, Hannah has worked extensively on Guebie, an endangered Kru language spoken in the Ivory Coast. </p> 
+			<h3> Sandra Bleeker </h3>
+        	<p> ... </p> 
 
-			<h3> Marcus Ewert </h3>
-        	<p> <a href="http://www.marcushenryewert.com/#/">Marcus</a> is a software developer in the Bay Area who has provided assistance with several linguistic documentation projects.</p> 
-
-			<h3> Juwon Kim </h3>
-        	<p> UC Berkeley Class of 2018, Juwon is a double major in linguistics and computer science. </p> 
-
-			<h3> Maytas Monsereenusorn </h3>
-        	<p> UC Berkeley Class of 2016, Maytas is a double major in computer science and economics. </p> 
-
+		
           </div>
           }
          }
