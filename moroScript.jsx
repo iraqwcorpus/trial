@@ -863,7 +863,7 @@
           return   <div className='ui text container'> 
 
 				
-          		<h1 className='ui dividing header'>Moro Story Corpus</h1>
+          		<h1 className='ui dividing header'>Iraqw Oral Literature Corpus</h1>
 
               <img className="ui right floated rounded image" src="./images/landscape.jpg"></img>
           
