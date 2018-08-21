@@ -865,7 +865,7 @@
 				
           		<h1 className='ui dividing header'>Iraqw Oral Literature Corpus</h1>
 
-              <img className="ui right floated rounded image" src="./images/landscape.jpg"></img>
+              <img className="ui medium right floated rounded image" src="./images/landscape.jpg"></img>
           
           <p>Within this website, you can find several stories from Iraqw oral literature in text and audio, translated and transcribed. </p> 
           
